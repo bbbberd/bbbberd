@@ -87,7 +87,7 @@ I am a **Software engineer** from 🇮🇩, currently focused on game and graphi
 ## Ongoing Projects
 
 ### [DirectXGame](https://github.com/bbbberd/DirectXGame)
-**Graphic programming in C++** • Studying directx graphic and programming using microsoft library.
+**Graphic programming in C++** • Studying directx graphic and programming in microsoft environment.
 
 ## Activity
 
