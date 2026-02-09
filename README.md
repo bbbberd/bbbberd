@@ -84,11 +84,6 @@ I am a **Software engineer** from 🇮🇩, currently focused on game and graphi
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" /> </div>
 </div>
 
-## Ongoing Projects
-
-### [DirectXGame](https://github.com/bbbberd/DirectXGame)
-**Graphic programming in C++** • Studying directx graphic and programming in microsoft environment.
-
 ## Activity
 
 <p align="center">
