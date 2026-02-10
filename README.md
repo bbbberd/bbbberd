@@ -15,7 +15,7 @@
 
 ## Professional Summary
 
-I am a **Software engineer** from 🇮🇩, currently focused on game and graphics programming, backed by experience in **full-stack web development** and **security research as a technical hobby**.
+I am a **Software engineer** from 🇮🇩,backed by experience in **full-stack web development**, **security research**, **game and graphics programming as technical hobby**.
 
 
 ## Technical Stack
