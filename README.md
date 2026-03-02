@@ -62,6 +62,7 @@ I am a **Software engineer** from 🇮🇩, backed by experience in **full-stack
 ### Game & Graphics
 
 <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/DirectX-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
 <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" />
