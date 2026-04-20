@@ -103,14 +103,7 @@ state : coding mode
 
 now_playing:
 > Linkin Park - Points of Authority
-```
-<div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31me54fwoakg7cely3s7ghxl655m&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
-
-</div>
-
-```bash
 $ _
 $ ps aux | grep current _
 [RUNNING] building useful software
