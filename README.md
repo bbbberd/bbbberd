@@ -1,6 +1,4 @@
 
-<div align="center">
-
 ```bash
 $ boot profile.sh _
 Initializing terminal interface...
@@ -14,8 +12,6 @@ $ _
 ```
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+systems+that+matter;Rendering+pixels+with+precision;Optimizing+performance+daily;Learning+forever" />
 
-</div>
-
 ```bash
 $ whoami _
 name        : Fadli Birdie Zeinda
@@ -25,10 +21,11 @@ role        : Software Engineer
 focus       : Fullstack + Graphics + Systems
 status      : online
 mindset     : build > talk
+uptime      : lifelong learner
 $ _
 ```
 ```bash
-$ ls expertise/ _
+$ tree expertise/ _
 backend/
 ├── Laravel
 ├── Node.js
@@ -91,8 +88,12 @@ $ _
 </div>
 
 ```bash  
-$ ./run basic-3d-viewport _ 
-Launching real-time render preview...  
+$ ./run ~/cube/build/cube _ 
+Launching real-time render preview...
+project : cube
+type    : graphics experiment
+focus   : transformation / rendering / 3D fundamentals
+status  : completed 
 ```  
 <div align="center">  
   
@@ -103,6 +104,12 @@ Launching real-time render preview...
 ```bash
 $ ./now-playing_
 Connecting to spotify daemon...
+daemon: active
+source: spotify
+state : coding mode
+
+now_playing:
+> Linkin Park - Points of Authority
 ```
 <div align="center">
 
@@ -111,7 +118,7 @@ Connecting to spotify daemon...
 </div>
 
 ```bash
-$ ./current-processes_
+$ ps aux | grep current _
 [RUNNING] building useful software
 [RUNNING] improving system design
 [RUNNING] studying graphics pipelines
@@ -120,7 +127,7 @@ $ ./current-processes_
 ```
 ---
 ```bash
-$ cat manifesto.md_
+$ cat manifesto.md _
 Build useful things.
 Keep code clean.
 Optimize when needed.
@@ -128,15 +135,12 @@ Stay curious.
 Ship consistently.
 ```
 ```bash
-$ ./contact --show
+$ ./contact --list
 email   : justbirdie00@gmail.com
 github  : github.com/bbbberd
 status  : open for opportunities
 ```
-<div align="center">
-
 ```bash
-$ exit
+$ logout
 Session terminated successfully.
 ```
-</div>
