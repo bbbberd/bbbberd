@@ -36,7 +36,8 @@ public:
         "Performance Engineering"
     };
 
-    string currentGoal = "Building systems that are fast, scalable, and meaningful.";
+    string currentGoal = "Building systems that are fast, 
+    scalable, and meaningful.";
 };
 ```
 
