@@ -2,9 +2,10 @@
 
 ```bash
 $ boot profile.sh_
-Initializing terminal interface...
-Loading user data...
-Access granted.
+[ OK ] loading kernel...
+[ OK ] mounting workspace...
+[ OK ] starting terminal ui...
+[ OK ] user authenticated
 
 FADLI BIRDIE ZEINDA
 
@@ -20,40 +21,42 @@ status      : online
 mindset     : build > talk
 uptime      : lifelong learner
 
-$ tree expertise/_
-backend/
-├── Laravel
-├── Node.js
-├── REST API
-├── Authentication
-├── Queue Systems
-└── Scalable Architecture
+[ OK ] Check experties...
 
-database/
-├── PostgreSQL
-├── MySQL
-├── Redis
-├── SQLite
-└── MongoDB
+expertise/
+├── backend/
+│   ├── Laravel
+│   ├── Node.js
+│   ├── REST API
+│   ├── Auth Systems
+│   └── Queue Workers
+│
+├── database/
+│   ├── PostgreSQL
+│   ├── MySQL
+│   ├── Redis
+│   ├── SQLite
+│   └── MongoDB
+│
+├── graphics/
+│   ├── OpenGL
+│   ├── Vulkan
+│   ├── DirectX
+│   └── Rendering Concepts
+│
+└── gamedev/
+    ├── Unity
+    ├── Unreal Engine
+    └── Gameplay Systems
 
-graphics/
-├── OpenGL
-├── Vulkan
-├── DirectX
-├── Shader Concepts
-└── Rendering Systems
+[ OK ] Print out languages...
 
-gamedev/
-├── Unity
-├── Unreal Engine
-└── Gameplay Systems
-
-$ cat languages.txt_
 C C++ C# 
 Go Java Python PHP Html Css 
 JavaScript TypeScript Ruby Lua
 
-$ skill-meter --verbose_
+[ OK ] Print out skill-meter...
+
 problem-solving      ████████████████ 100%
 backend-engineering  ██████████████░░ 90%
 database-design      █████████████░░░ 85%
@@ -62,8 +65,9 @@ game-development     ████████████░░░░ 78%
 clean-code           ███████████████░ 95%
 debugging            ████████████████ 100%
 
-$ ./run ~/cube/build/cube_ 
-Launching real-time render preview...
+[ OK ] ./run ~/cube/build/cube...
+[ OK ] Launching real-time render preview...
+
 project : cube
 type    : graphics experiment
 focus   : transformation / rendering / 3D fundamentals
@@ -76,7 +80,8 @@ status  : completed
 </div>
 
 ```bash
-$ ./now-playing_
+[ OK ] ./now-playing
+
 Connecting to spotify daemon...
 daemon: active
 source: spotify
@@ -85,21 +90,23 @@ state : coding mode
 now_playing:
 > Linkin Park - Points of Authority
 
-$ ps aux | grep current_
+[ OK ] ps aux | grep current
+
 [RUNNING] building useful software
 [RUNNING] improving system design
 [RUNNING] studying graphics pipelines
 [RUNNING] sharpening engineering mindset
 [RUNNING] solving real problems
 
-$ cat manifesto.md_
+[ OK ] cat manifesto.md
+
 Build useful things.
 Keep code clean.
 Optimize when needed.
 Stay curious.
 Ship consistently.
 
-$ ./contact --list
+[ OK ] ./contact --list
 email   : justbirdie00@gmail.com
 github  : github.com/bbbberd
 status  : open for opportunities
@@ -120,5 +127,5 @@ status  : open for opportunities
 
 ```bash
 $ logout_
-Session terminated successfully.
+[ OK ] Session terminated successfully.
 ```
