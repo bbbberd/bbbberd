@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+systems+that+matter;Rendering+pixels+with+precision;Optimizing+performance+daily;Learning+forever" />
 
 ```bash
-$ boot profile.sh _
+$ boot profile.sh_
 Initializing terminal interface...
 Loading user data...
 Access granted.
@@ -10,7 +10,7 @@ FADLI BIRDIE ZEINDA
 
 Software Engineer | Web Developer | Graphics Programmer
 $ _
-$ whoami _
+$ whoami_
 name        : Fadli Birdie Zeinda
 username    : bbbberd
 location    : Indonesia
@@ -20,7 +20,7 @@ status      : online
 mindset     : build > talk
 uptime      : lifelong learner
 $ _
-$ tree expertise/ _
+$ tree expertise/_
 backend/
 ├── Laravel
 ├── Node.js
@@ -48,12 +48,12 @@ gamedev/
 ├── Unreal Engine
 └── Gameplay Systems
 $ _
-$ cat languages.txt _
+$ cat languages.txt_
 C C++ C# 
 Go Java Python PHP Html Css 
 JavaScript TypeScript Ruby Lua
 $ _
-$ skill-meter --verbose _
+$ skill-meter --verbose_
 problem-solving      ████████████████ 100%
 backend-engineering  ██████████████░░ 90%
 database-design      █████████████░░░ 85%
@@ -80,7 +80,7 @@ $ _
 
 ```bash
 $ _
-$ ./run ~/cube/build/cube _ 
+$ ./run ~/cube/build/cube_ 
 Launching real-time render preview...
 project : cube
 type    : graphics experiment
@@ -105,7 +105,7 @@ now_playing:
 > Linkin Park - Points of Authority
 
 $ _
-$ ps aux | grep current _
+$ ps aux | grep current_
 [RUNNING] building useful software
 [RUNNING] improving system design
 [RUNNING] studying graphics pipelines
@@ -113,7 +113,7 @@ $ ps aux | grep current _
 [RUNNING] solving real problems
 
 $ _
-$ cat manifesto.md _
+$ cat manifesto.md_
 Build useful things.
 Keep code clean.
 Optimize when needed.
@@ -127,6 +127,6 @@ github  : github.com/bbbberd
 status  : open for opportunities
 
 $ _
-$ logout _
+$ logout_
 Session terminated successfully.
 ```
