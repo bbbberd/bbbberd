@@ -9,7 +9,7 @@ Access granted.
 FADLI BIRDIE ZEINDA
 
 Software Engineer | Web Developer | Graphics Programmer
-$ _
+
 $ whoami_
 name        : Fadli Birdie Zeinda
 username    : bbbberd
@@ -19,7 +19,7 @@ focus       : Fullstack + Graphics + Systems
 status      : online
 mindset     : build > talk
 uptime      : lifelong learner
-$ _
+
 $ tree expertise/_
 backend/
 ├── Laravel
@@ -47,12 +47,12 @@ gamedev/
 ├── Unity
 ├── Unreal Engine
 └── Gameplay Systems
-$ _
+
 $ cat languages.txt_
 C C++ C# 
 Go Java Python PHP Html Css 
 JavaScript TypeScript Ruby Lua
-$ _
+
 $ skill-meter --verbose_
 problem-solving      ████████████████ 100%
 backend-engineering  ██████████████░░ 90%
@@ -61,7 +61,6 @@ graphics-programming ███████████░░░░░ 72%
 game-development     ████████████░░░░ 78%
 clean-code           ███████████████░ 95%
 debugging            ████████████████ 100%
-$ _
 ```
 <div align="center">
 
@@ -79,7 +78,6 @@ $ _
 </div>
 
 ```bash
-$ _
 $ ./run ~/cube/build/cube_ 
 Launching real-time render preview...
 project : cube
@@ -94,7 +92,6 @@ status  : completed
 </div>
 
 ```bash
-$ _
 $ ./now-playing_
 Connecting to spotify daemon...
 daemon: active
@@ -104,7 +101,6 @@ state : coding mode
 now_playing:
 > Linkin Park - Points of Authority
 
-$ _
 $ ps aux | grep current_
 [RUNNING] building useful software
 [RUNNING] improving system design
@@ -112,7 +108,6 @@ $ ps aux | grep current_
 [RUNNING] sharpening engineering mindset
 [RUNNING] solving real problems
 
-$ _
 $ cat manifesto.md_
 Build useful things.
 Keep code clean.
@@ -120,13 +115,11 @@ Optimize when needed.
 Stay curious.
 Ship consistently.
 
-$ _
 $ ./contact --list
 email   : justbirdie00@gmail.com
 github  : github.com/bbbberd
 status  : open for opportunities
 
-$ _
 $ logout_
 Session terminated successfully.
 ```
