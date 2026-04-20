@@ -11,7 +11,7 @@ FADLI BIRDIE ZEINDA
 
 Software Engineer | Web Developer | Graphics Programmer
 
-$ whoami_
+[ OK ] whoami
 name        : Fadli Birdie Zeinda
 username    : bbbberd
 location    : Indonesia
@@ -21,8 +21,7 @@ status      : online
 mindset     : build > talk
 uptime      : lifelong learner
 
-[ OK ] Check experties...
-
+[ OK ] tree experties
 expertise/
 ├── backend/
 │   ├── Laravel
@@ -49,14 +48,12 @@ expertise/
     ├── Unreal Engine
     └── Gameplay Systems
 
-[ OK ] Print out languages...
-
+[ OK ] Print out languages
 C C++ C# 
 Go Java Python PHP Html Css 
 JavaScript TypeScript Ruby Lua
 
-[ OK ] Print out skill-meter...
-
+[ OK ] Print out skill-meter
 problem-solving      ████████████████ 100%
 backend-engineering  ██████████████░░ 90%
 database-design      █████████████░░░ 85%
@@ -66,8 +63,7 @@ clean-code           ███████████████░ 95%
 debugging            ████████████████ 100%
 
 [ OK ] ./run ~/cube/build/cube...
-[ OK ] Launching real-time render preview...
-
+[ OK ] Launching real-time render preview
 project : cube
 type    : graphics experiment
 focus   : transformation / rendering / 3D fundamentals
@@ -81,7 +77,6 @@ status  : completed
 
 ```bash
 [ OK ] ./now-playing
-
 Connecting to spotify daemon...
 daemon: active
 source: spotify
@@ -91,7 +86,6 @@ now_playing:
 > Linkin Park - Points of Authority
 
 [ OK ] ps aux | grep current
-
 [RUNNING] building useful software
 [RUNNING] improving system design
 [RUNNING] studying graphics pipelines
@@ -99,7 +93,6 @@ now_playing:
 [RUNNING] solving real problems
 
 [ OK ] cat manifesto.md
-
 Build useful things.
 Keep code clean.
 Optimize when needed.
