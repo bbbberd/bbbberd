@@ -5,13 +5,14 @@ $ boot profile.sh_
 [ OK ] loading kernel...
 [ OK ] mounting workspace...
 [ OK ] starting terminal ui...
-[ OK ] user authenticated
+[ RUN ] user authenticated
 
 FADLI BIRDIE ZEINDA
 
 Software Engineer | Web Developer | Graphics Programmer
 
-[ OK ] whoami
+[ OK ] Checking whoami file...
+[ RUN ] whoami
 name        : Fadli Birdie Zeinda
 username    : bbbberd
 location    : Indonesia
@@ -21,7 +22,8 @@ status      : online
 mindset     : build > talk
 uptime      : lifelong learner
 
-[ OK ] tree experties
+[ OK ] Scanning experties directories...
+[ RUN ] tree experties
 expertise/
 ├── backend/
 │   ├── Laravel
@@ -48,12 +50,14 @@ expertise/
     ├── Unreal Engine
     └── Gameplay Systems
 
-[ OK ] Print out languages
+[ OK ] Checking languages file...
+[ RUN ] Print languages
 C C++ C# 
 Go Java Python PHP Html Css 
 JavaScript TypeScript Ruby Lua
 
-[ OK ] Print out skill-meter
+[ OK ] Scanning skill-meter...
+[ RUN ] Print skill-meter
 problem-solving      ████████████████ 100%
 backend-engineering  ██████████████░░ 90%
 database-design      █████████████░░░ 85%
@@ -62,8 +66,9 @@ game-development     ████████████░░░░ 78%
 clean-code           ███████████████░ 95%
 debugging            ████████████████ 100%
 
+[ OK ] Checking project cube...
 [ OK ] ./run ~/cube/build/cube...
-[ OK ] Launching real-time render preview
+[ RUN ] Launching real-time render preview
 project : cube
 type    : graphics experiment
 focus   : transformation / rendering / 3D fundamentals
@@ -76,8 +81,9 @@ status  : completed
 </div>
 
 ```bash
-[ OK ] ./now-playing
-Connecting to spotify daemon...
+[ OK ] Checking bacground app...
+[ RUN ] ./now-playing
+[ OK ] Connecting to spotify daemon...
 daemon: active
 source: spotify
 state : coding mode
@@ -85,21 +91,21 @@ state : coding mode
 now_playing:
 > Linkin Park - Points of Authority
 
-[ OK ] ps aux | grep current
+[ RUN ] ps aux | grep current
 [RUNNING] building useful software
 [RUNNING] improving system design
 [RUNNING] studying graphics pipelines
 [RUNNING] sharpening engineering mindset
 [RUNNING] solving real problems
 
-[ OK ] cat manifesto.md
+[ RUN ] cat manifesto.md
 Build useful things.
 Keep code clean.
 Optimize when needed.
 Stay curious.
 Ship consistently.
 
-[ OK ] ./contact --list
+[ RUN ] ./contact --list
 email   : justbirdie00@gmail.com
 github  : github.com/bbbberd
 status  : open for opportunities
@@ -120,5 +126,5 @@ status  : open for opportunities
 
 ```bash
 $ logout_
-[ OK ] Session terminated successfully.
+[ EXIT ] Session terminated successfully.
 ```
