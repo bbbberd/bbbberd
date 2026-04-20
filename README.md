@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+systems+that+matter;Rendering+pixels+with+precision;Optimizing+performance+daily;Learning+forever" />
 
 ```bash
 $ boot profile.sh _
@@ -9,10 +10,6 @@ FADLI BIRDIE ZEINDA
 
 Software Engineer | Web Developer | Graphics Programmer
 $ _
-```
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+systems+that+matter;Rendering+pixels+with+precision;Optimizing+performance+daily;Learning+forever" />
-
-```bash
 $ whoami _
 name        : Fadli Birdie Zeinda
 username    : bbbberd
@@ -23,8 +20,6 @@ status      : online
 mindset     : build > talk
 uptime      : lifelong learner
 $ _
-```
-```bash
 $ tree expertise/ _
 backend/
 ├── Laravel
@@ -53,15 +48,11 @@ gamedev/
 ├── Unreal Engine
 └── Gameplay Systems
 $ _
-```
-```bash
 $ cat languages.txt _
 C C++ C# 
 Go Java Python PHP Html Css 
 JavaScript TypeScript Ruby Lua
 $ _
-```
-```bash
 $ skill-meter --verbose _
 problem-solving      ████████████████ 100%
 backend-engineering  ██████████████░░ 90%
@@ -87,7 +78,8 @@ $ _
 
 </div>
 
-```bash  
+```bash
+$ _
 $ ./run ~/cube/build/cube _ 
 Launching real-time render preview...
 project : cube
@@ -102,6 +94,7 @@ status  : completed
 </div>
 
 ```bash
+$ _
 $ ./now-playing_
 Connecting to spotify daemon...
 daemon: active
@@ -118,29 +111,29 @@ now_playing:
 </div>
 
 ```bash
+$ _
 $ ps aux | grep current _
 [RUNNING] building useful software
 [RUNNING] improving system design
 [RUNNING] studying graphics pipelines
 [RUNNING] sharpening engineering mindset
 [RUNNING] solving real problems
-```
----
-```bash
+
+$ _
 $ cat manifesto.md _
 Build useful things.
 Keep code clean.
 Optimize when needed.
 Stay curious.
 Ship consistently.
-```
-```bash
+
+$ _
 $ ./contact --list
 email   : justbirdie00@gmail.com
 github  : github.com/bbbberd
 status  : open for opportunities
-```
-```bash
-$ logout
+
+$ _
+$ logout _
 Session terminated successfully.
 ```
