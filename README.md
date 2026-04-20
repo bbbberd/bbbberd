@@ -35,7 +35,7 @@ gamedev/   unity unreal
 
 $ cat languages.txt
 C C++ C# Go Java Python
-PHP JS TS Ruby Lua
+Html Css PHP JS TS Ruby Lua
 ```
 </td>
 
@@ -78,6 +78,9 @@ documentation        ███████████████████�
 
 $ ./run cube-demo
 Launching render preview...
+project     : cube
+subjects    : 3D viewport | rendering | gltfloader
+status      : keep being updated
 ```
 <div align="center">
 
@@ -85,11 +88,6 @@ Launching render preview...
 
 </div>
 
-```bash
-project : cube
-type    : graphics experiment
-status  : completed
-```
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbbberd&theme=github-dark&hide_border=true&area=true"/>
