@@ -41,7 +41,7 @@ public:
 };
 ```
 
-I build software across multiple layers — from backend systems and web platforms to graphics rendering and interactive applications.
+I build software across multiple layers, from backend systems and web platforms to graphics rendering and interactive applications.
 
 I enjoy solving hard problems, optimizing performance, and creating products people actually use.
 
