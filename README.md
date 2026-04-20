@@ -61,23 +61,7 @@ graphics-programming ███████████░░░░░ 72%
 game-development     ████████████░░░░ 78%
 clean-code           ███████████████░ 95%
 debugging            ████████████████ 100%
-```
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bbbberd&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbberd&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
- $ contribution-log
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bbbberd&theme=github-compact&hide_border=true&area=true"/>
-
-</div>
-
-```bash
 $ ./run ~/cube/build/cube_ 
 Launching real-time render preview...
 project : cube
@@ -119,7 +103,22 @@ $ ./contact --list
 email   : justbirdie00@gmail.com
 github  : github.com/bbbberd
 status  : open for opportunities
+```
+<div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bbbberd&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbberd&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bbbberd&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+```bash
 $ logout_
 Session terminated successfully.
 ```
