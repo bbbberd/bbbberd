@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+systems+that+matter;Rendering+pixels+with+precision;Optimizing+performance+daily;Learning+forever" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=555C&center=true&vCenter=true&width=700&lines=Building+systems+that+matter;Rendering+pixels+with+precision;Optimizing+performance+daily;Learning+forever" />
 
 ```bash
 $ boot profile.sh_
@@ -23,7 +23,7 @@ mindset     : build > talk
 uptime      : lifelong learner
 
 [ OK ] Scanning experties directories...
-[ RUN ] tree experties
+[ RUN ] ls experties
 expertise/
 ├── backend/
 │   ├── Laravel
