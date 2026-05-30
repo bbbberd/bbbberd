@@ -54,9 +54,11 @@ rust                █████░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bbbberd&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=bbbberd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9cdcfe&text_color=c9d1d9&icon_color=9cdcfe"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bbbberd&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bbbberd&layout=compact&hide_border=true&bg_color=0d1117&title_color=9cdcfe&text_color=c9d1d9"/>
 
 </div>
 
