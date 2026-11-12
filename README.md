@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9cdcfe&center=true&vCenter=true&width=700&lines=Building+systems+that+matter;Rendering+pixels+with+precision;Optimizing+performance+daily;Learning+forever" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9cdcfe&center=true&vCenter=true&width=700&lines=Building+systems;Rendering+pixels+with+precision;Optimizing+performance+daily;Learning+forever" />
 
 </div>
 
@@ -12,7 +12,7 @@ $ boot profile.sh...
 ```
 # FADLI BIRDIE ZEINDA
 ```bash
-Software Engineer | Web Developer | Graphics Programmer
+Software Engineer | Web | Graphics | Performance goblin
 ```
 <table>
 <tr>
@@ -24,14 +24,8 @@ name     : Fadli Birdie Zeinda
 user     : bbbberd
 location : Indonesia
 role     : Software Engineer
-focus    : Fullstack + Graphics
+focus    : Performance
 status   : online
-
-$ ls expertise/
-backend/   laravel node api auth
-database/  postgres mysql redis
-graphics/  opengl vulkan directx
-gamedev/   unity unreal
 
 $ ./skill-meter --languages
 c++                 ████████████████████████████████░░░░░░░░░░░░░░ 68%
