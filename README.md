@@ -47,9 +47,9 @@ email  : justbirdie00 [at] gmail [dot] com
 github : github.com/bbbberd
 
 $ spotifyctl status
-last_played:
-> Guttural Slug - Eye of the Cyclops
-  ⣤⣤⣤⣀⣤⣀⣤⣤⣤⣤⣀⣤⣤⣤⣀⣤⣀⣤⣀⣤⣤⣀⣤⣤  [ idle ]
+now_playing:
+> alt-J - Something Good
+  ⣿⣿⣤⣿⣶⣀⣶⣀⣶⣤⣿⣤⣤⣤⣿⣤⣤⣤⣿⣤⣀⣀⣶⣿  [ playing ]
 ```
 <td valign="top" width="48%">
 <div align="center">
