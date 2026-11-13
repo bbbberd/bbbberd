@@ -48,11 +48,10 @@ rust                █████░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=bbbberd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9cdcfe&text_color=c9d1d9&icon_color=9cdcfe"/>
-
-<img height="170"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bbbberd&layout=compact&hide_border=true&bg_color=0d1117&title_color=9cdcfe&text_color=c9d1d9"/>
+<p align="center">
+  <img height="170" src="profile-summary-card-output/github_dark/3-stats.svg" />
+  <img height="170" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+</p>
 
 </div>
 
