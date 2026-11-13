@@ -46,10 +46,9 @@ rust                █████░░░░░░░░░░░░░░░
 
 <td valign="top" width="48%">
 <div align="center">
-  <!-- <img height="170" src="profile-summary-card-output/github_dark/3-stats.svg" /> KALAU SUDAH SERING PR DSB--> 
-  <img height="170" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-  
-  
+  <img height="170" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="95%" />
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" width="95%" />
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="95%" />
 </div>
 </td>
 </tr>
