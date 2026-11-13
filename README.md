@@ -47,9 +47,9 @@ email  : justbirdie00 [at] gmail [dot] com
 github : github.com/bbbberd
 
 $ spotifyctl status
-now_playing:
-> Linkin Park - Papercut
-  ⣀⣀⣿⣶⣀⣿⣿⣤⣶⣀⣤⣤⣤⣿⣿⣿⣤⣤⣶⣿⣀⣿⣤⣀  [ playing ]
+last_played:
+> Slaughter to Prevail - Bratva
+  ⣤⣀⣀⣀⣀⣤⣤⣤⣀⣀⣤⣀⣀⣀⣤⣀⣤⣤⣤⣤⣤⣤⣤⣤  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
