@@ -41,6 +41,14 @@ php                 █████████░░░░░░░░░░░
 typescript          ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
 golang              ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9%
 rust                █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7%
+
+$ spotifyctl status
+now_playing:
+> Panic! at the Disco - Build God, Then We'll Talk
+
+$ contact
+email  : justbirdie00 [at] gmail [dot] com
+github : github.com/bbbberd
 ```
 </td>
 
@@ -75,14 +83,6 @@ status      : keep being updated
 </div>
 
 ```bash
-$ spotifyctl status
-now_playing:
-> Panic! at the Disco - Build God, Then We'll Talk
-
-$ contact
-email  : justbirdie00 [at] gmail [dot] com
-github : github.com/bbbberd
-
 $ logout
 session terminated successfully.
 ```
