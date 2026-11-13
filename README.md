@@ -48,8 +48,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 now_playing:
-> alt-J - Something Good
-  ⣿⣿⣤⣿⣶⣀⣶⣀⣶⣤⣿⣤⣤⣤⣿⣤⣤⣤⣿⣤⣀⣀⣶⣿  [ playing ]
+> Linkin Park - Papercut
+  ⣀⣀⣿⣶⣀⣿⣿⣤⣶⣀⣤⣤⣤⣿⣿⣿⣤⣤⣶⣿⣀⣿⣤⣀  [ playing ]
 ```
 <td valign="top" width="48%">
 <div align="center">
