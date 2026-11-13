@@ -1,7 +1,7 @@
-import os, re, json, urllib.request, urllib.parse
+import os, re, json, sys, urllib.request, urllib.parse
 
-user = os.environ["LASTFM_USER"]
-key = os.environ["LASTFM_API_KEY"]
+user = os.environ["LASTFM_USER"].strip()
+key = os.environ["LASTFM_API_KEY"].strip()
 
 url = "https://ws.audioscrobbler.com/2.0/?" + urllib.parse.urlencode({
     "method": "user.getrecenttracks",
@@ -13,10 +13,18 @@ url = "https://ws.audioscrobbler.com/2.0/?" + urllib.parse.urlencode({
 with urllib.request.urlopen(url, timeout=20) as r:
     data = json.load(r)
 
-track = data["recenttracks"]["track"]
-if isinstance(track, list):
-    track = track[0]
+if "error" in data:
+    print("Last.fm error:", data.get("message"))
+    sys.exit(0)
 
+tracks = data.get("recenttracks", {}).get("track", [])
+if isinstance(tracks, dict):
+    tracks = [tracks]
+if not tracks:
+    print("No recent tracks found, leaving README unchanged.")
+    sys.exit(0)
+
+track = tracks[0]
 artist = track["artist"]["#text"]
 title = track["name"]
 playing = track.get("@attr", {}).get("nowplaying") == "true"
