@@ -48,10 +48,8 @@ rust                █████░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<p align="center">
-  <img height="170" src="profile-summary-card-output/github_dark/3-stats.svg" />
-  <img height="170" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-</p>
+<img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+<img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="100%" />
 
 </div>
 
@@ -69,9 +67,9 @@ subjects    : 3D viewport | rendering | gltfloader
 status      : keep being updated
 ```
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/bbbberd/cube/main/assets/kubus.gif" width="650"/>
-
+<a href="https://github.com/bbbberd/cube">
+  <img src="https://raw.githubusercontent.com/bbbberd/cube/main/assets/kubus.gif" width="650" alt="Lighting cube demo: 3D renderer in C++" />
+</a>
 </div>
 
 <div align="center">
@@ -85,13 +83,8 @@ $ spotifyctl status
 now_playing:
 > Linkin Park - Points of Authority
 
-$ ps aux | grep current
-running building useful software
-running improving system design
-running studying graphics pipelines
-
 $ contact
-email  : justbirdie00@gmail.com
+email  : justbirdie00 [at] gmail [dot] com
 github : github.com/bbbberd
 
 $ logout
