@@ -48,10 +48,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 now_playing:
-> Muse - Hysteria
-  ⣤⣀⣤⣿⣿⣶⣿⣤⣶⣤⣿⣀⣤⣿⣤⣀⣿⣿⣤⣿⣿⣿⣤⣀  [ playing ]
-```
-</td>
+> Michael Jackson - You Rock My World
+  ⣶⣀⣤⣤⣶⣤⣿⣶⣀⣿⣤⣿⣤⣿⣤⣶⣤⣀⣶⣿⣿⣀⣶⣿  [ playing ]
 
 <td valign="top" width="48%">
 <div align="center">
