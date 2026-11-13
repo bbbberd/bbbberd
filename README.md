@@ -48,8 +48,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 last_played:
-> Slaughter to Prevail - Bratva
-  ⣤⣀⣀⣀⣀⣤⣤⣤⣀⣀⣤⣀⣀⣀⣤⣀⣤⣤⣤⣤⣤⣤⣤⣤  [ idle ]
+> Guttural Slug - Eye of the Cyclops
+  ⣤⣤⣤⣀⣤⣀⣤⣤⣤⣤⣀⣤⣤⣤⣀⣤⣀⣤⣀⣤⣤⣀⣤⣤  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
