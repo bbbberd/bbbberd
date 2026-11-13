@@ -50,7 +50,7 @@ $ spotifyctl status
 now_playing:
 > Michael Jackson - You Rock My World
   ⣶⣀⣤⣤⣶⣤⣿⣶⣀⣿⣤⣿⣤⣿⣤⣶⣤⣀⣶⣿⣿⣀⣶⣿  [ playing ]
-
+```
 <td valign="top" width="48%">
 <div align="center">
   <img height="170" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="95%" />
