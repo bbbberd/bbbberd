@@ -41,22 +41,20 @@ php                 █████████░░░░░░░░░░░
 typescript          ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
 golang              ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9%
 rust                █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7%
+
+$ contact
+email  : justbirdie00 [at] gmail [dot] com
+github : github.com/bbbberd
+
+$ spotifyctl status
+last_played:
+> Panic! at the Disco - Build God, Then We'll Talk
 ```
 
 <div align="center">
   <img src="assets/equalizer.svg" width="240" />
 </div>
 
-```text
-$ spotifyctl status
-last_played:
-> Panic! at the Disco - Build God, Then We'll Talk
-  ▃▃▁▁▁▃▁▂▁▃▁▂▂▂▁▂▃▃▃▁▁▃▂▃  [ idle ]
-
-$ contact
-email  : justbirdie00 [at] gmail [dot] com
-github : github.com/bbbberd
-```
 </td>
 
 <td valign="top" width="48%">
