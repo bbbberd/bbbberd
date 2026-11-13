@@ -47,9 +47,9 @@ email  : justbirdie00 [at] gmail [dot] com
 github : github.com/bbbberd
 
 $ spotifyctl status
-now_playing:
+last_played:
 > alt-J - Something Good
-  ⣿⣿⣤⣿⣶⣀⣶⣀⣶⣤⣿⣤⣤⣤⣿⣤⣤⣤⣿⣤⣀⣀⣶⣿  [ playing ]
+  ⣤⣤⣤⣤⣀⣀⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣀⣀⣀⣤  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
