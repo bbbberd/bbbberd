@@ -77,7 +77,7 @@ status      : keep being updated
 ```bash
 $ spotifyctl status
 now_playing:
-> Linkin Park - Points of Authority
+> Panic! at the Disco - Build God, Then We'll Talk
 
 $ contact
 email  : justbirdie00 [at] gmail [dot] com
