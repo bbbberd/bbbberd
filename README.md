@@ -76,7 +76,7 @@ status      : keep being updated
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bbbberd&theme=github-dark&hide_border=true&area=true"/>
+<img src="https://raw.githubusercontent.com/bbbberd/bbbberd/output/github-snake-dark.svg" />
 
 </div>
 
