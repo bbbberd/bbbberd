@@ -45,12 +45,20 @@ new_text = f"{label}\n> {artist} - {title}\n  {bars}  {status}"
 with open("README.md", encoding="utf-8") as f:
     readme = f.read()
 
-# Replace every non-empty line under "$ spotifyctl status"
-pattern = r"(\$ spotifyctl status\n)(?:[^\n]+\n)+"
-readme, count = re.subn(pattern, lambda m: m.group(1) + new_text + "\n", readme, count=1)
+# Match only the label line, the "> Artist - Title" line, and the optional
+# bar line (blocks or braille). Nothing after that is touched.
+pattern = (
+    r"(\$ spotifyctl status\n)"
+    r"(?:now_playing|last_played):\n"
+    r"> [^\n]*\n"
+    r"(?: {2}[\u2581-\u2588\u2800-\u28ff][^\n]*\n)?"
+)
+readme, count = re.subn(
+    pattern, lambda m: m.group(1) + new_text + "\n", readme, count=1
+)
 
 if count == 0:
-    print("ERROR: could not find '$ spotifyctl status' in README.md")
+    print("ERROR: could not find the '$ spotifyctl status' block in README.md")
     sys.exit(1)
 
 with open("README.md", "w", encoding="utf-8") as f:
