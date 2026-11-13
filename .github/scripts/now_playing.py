@@ -28,13 +28,15 @@ track = tracks[0]
 artist = track["artist"]["#text"]
 title = track["name"]
 playing = track.get("@attr", {}).get("nowplaying") == "true"
+print(f"Last.fm says: {artist} - {title} (playing={playing})")
+
 label = "now_playing:" if playing else "last_played:"
 
-# Bars are seeded from the song name: same song, same pattern.
-# When nothing is playing, the bars stay low.
-blocks = "▁▂▃▄▅▆▇█"
+# Braille bars, seeded from the song name: same song, same pattern.
+# Idle bars stay low.
+blocks = "⣀⣤⣶⣿"
 digest = hashlib.sha256(f"{artist}{title}".encode("utf-8")).digest()
-levels = [b % 8 if playing else b % 3 for b in digest[:24]]
+levels = [b % 4 if playing else b % 2 for b in digest[:24]]
 bars = "".join(blocks[l] for l in levels)
 status = "[ playing ]" if playing else "[ idle ]"
 
@@ -43,8 +45,14 @@ new_text = f"{label}\n> {artist} - {title}\n  {bars}  {status}"
 with open("README.md", encoding="utf-8") as f:
     readme = f.read()
 
-pattern = r"(?:now_playing|last_played):\n> .*(?:\n {2}[\u2581-\u2588].*)?"
-readme = re.sub(pattern, lambda m: new_text, readme)
+# Replace every non-empty line under "$ spotifyctl status"
+pattern = r"(\$ spotifyctl status\n)(?:[^\n]+\n)+"
+readme, count = re.subn(pattern, lambda m: m.group(1) + new_text + "\n", readme, count=1)
+
+if count == 0:
+    print("ERROR: could not find '$ spotifyctl status' in README.md")
+    sys.exit(1)
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(readme)
+print("README updated.")
