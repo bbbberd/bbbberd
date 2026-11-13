@@ -48,8 +48,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 now_playing:
-> Michael Jackson - You Rock My World
-  ⣶⣀⣤⣤⣶⣤⣿⣶⣀⣿⣤⣿⣤⣿⣤⣶⣤⣀⣶⣿⣿⣀⣶⣿  [ playing ]
+> alt-J - Something Good
+  ⣿⣿⣤⣿⣶⣀⣶⣀⣶⣤⣿⣤⣤⣤⣿⣤⣤⣤⣿⣤⣀⣀⣶⣿  [ playing ]
 ```
 <td valign="top" width="48%">
 <div align="center">
