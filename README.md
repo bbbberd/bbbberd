@@ -45,12 +45,10 @@ rust                █████░░░░░░░░░░░░░░░
 </td>
 
 <td valign="top" width="48%">
-  <div align="center">
-
-    <img height="170" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-    <img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="100%" />
-
-  </div>
+<div align="center">
+  <img height="170" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="100%" />
+</div>
 </td>
 </tr>
 </table>
