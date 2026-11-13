@@ -50,6 +50,8 @@ rust                █████░░░░░░░░░░░░░░░
 
 <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
 <img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="100%" />
+<img height="170" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+<img height="170" src="profile-summary-card-output/github_dark/3-stats.svg" />
 
 </div>
 
