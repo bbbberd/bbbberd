@@ -18,7 +18,7 @@ Software Engineer | Web | Graphics | Performance goblin
 <tr>
 <td valign="top" width="52%">
 
-```bash
+```text
 $ whoami
 name     : Fadli Birdie Zeinda
 user     : bbbberd
