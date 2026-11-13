@@ -43,8 +43,9 @@ golang              ██████░░░░░░░░░░░░░░
 rust                █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7%
 
 $ spotifyctl status
-now_playing:
+last_played:
 > Panic! at the Disco - Build God, Then We'll Talk
+  ▃▃▁▁▁▃▁▂▁▃▁▂▂▂▁▂▃▃▃▁▁▃▂▃  [ idle ]
 
 $ contact
 email  : justbirdie00 [at] gmail [dot] com
