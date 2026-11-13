@@ -50,6 +50,7 @@ $ spotifyctl status
 now_playing:
 > Muse - Hysteria
   ⣤⣀⣤⣿⣿⣶⣿⣤⣶⣤⣿⣀⣤⣿⣤⣀⣿⣿⣤⣿⣿⣿⣤⣀  [ playing ]
+```
 
 <div align="center">
   <img src="assets/equalizer.svg" width="240" />
