@@ -18,7 +18,7 @@ Software Engineer | Web | Graphics | Performance goblin
 <tr>
 <td valign="top" width="52%">
 
-```text
+```bash
 $ whoami
 name     : Fadli Birdie Zeinda
 user     : bbbberd
@@ -41,7 +41,13 @@ php                 █████████░░░░░░░░░░░
 typescript          ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
 golang              ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9%
 rust                █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7%
+```
 
+<div align="center">
+  <img src="assets/equalizer.svg" width="240" />
+</div>
+
+```text
 $ spotifyctl status
 last_played:
 > Panic! at the Disco - Build God, Then We'll Talk
