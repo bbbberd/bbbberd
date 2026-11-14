@@ -48,8 +48,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 last_played:
-> alt-J - Something Good
-  ⣤⣤⣤⣤⣀⣀⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣀⣀⣀⣤  [ idle ]
+> Panic! at the Disco - Build God, Then We'll Talk
+  ⣤⣤⣤⣀⣀⣤⣀⣀⣀⣤⣀⣤⣀⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
