@@ -47,9 +47,9 @@ email  : justbirdie00 [at] gmail [dot] com
 github : github.com/bbbberd
 
 $ spotifyctl status
-last_played:
-> Panic! at the Disco - Build God, Then We'll Talk
-  ⣤⣤⣤⣀⣀⣤⣀⣀⣀⣤⣀⣤⣀⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤  [ idle ]
+now_playing:
+> AC/DC - Shoot to Thrill
+  ⣀⣿⣶⣿⣿⣿⣤⣶⣿⣤⣶⣤⣤⣤⣶⣿⣶⣤⣿⣀⣶⣀⣤⣀  [ playing ]
 ```
 <td valign="top" width="48%">
 <div align="center">
