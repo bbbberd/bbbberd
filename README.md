@@ -47,9 +47,9 @@ email  : justbirdie00 [at] gmail [dot] com
 github : github.com/bbbberd
 
 $ spotifyctl status
-now_playing:
-> AC/DC - Shoot to Thrill
-  ⣀⣿⣶⣿⣿⣿⣤⣶⣿⣤⣶⣤⣤⣤⣶⣿⣶⣤⣿⣀⣶⣀⣤⣀  [ playing ]
+last_played:
+> AC/DC - Dirty Deeds Done Dirt Cheap
+  ⣀⣀⣀⣤⣀⣀⣤⣀⣤⣤⣤⣤⣤⣤⣀⣀⣀⣀⣀⣀⣀⣤⣤⣤  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
