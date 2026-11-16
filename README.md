@@ -48,8 +48,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 last_played:
-> AC/DC - Dirty Deeds Done Dirt Cheap
-  ⣀⣀⣀⣤⣀⣀⣤⣀⣤⣤⣤⣤⣤⣤⣀⣀⣀⣀⣀⣀⣀⣤⣤⣤  [ idle ]
+> Radiohead - Karma Police
+  ⣀⣤⣀⣤⣀⣀⣤⣀⣀⣤⣀⣀⣤⣀⣀⣤⣀⣤⣀⣤⣀⣤⣀⣀  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
