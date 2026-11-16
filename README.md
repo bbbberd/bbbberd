@@ -4,12 +4,6 @@
 
 </div>
 
-```bash
-$ boot profile.sh...
-[ OK ] kernel loaded...
-[ OK ] workspace mounted...
-[ RUN ] terminal ready
-```
 # FADLI BIRDIE ZEINDA
 ```bash
 Software Engineer | Web | Graphics | Performance goblin
@@ -80,8 +74,3 @@ status      : keep being updated
   <img src="https://raw.githubusercontent.com/bbbberd/cube/main/assets/kubus.gif" width="650" alt="Lighting cube demo: 3D renderer in C++" />
 </a>
 </div>
-
-```bash
-$ logout
-session terminated successfully.
-```
