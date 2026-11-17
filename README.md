@@ -42,8 +42,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 last_played:
-> AC/DC - Hard as a Rock
-  ⣀⣀⣤⣤⣤⣤⣀⣤⣀⣤⣀⣤⣀⣀⣀⣀⣤⣀⣀⣤⣀⣤⣀⣤  [ idle ]
+> AC/DC - Thunderstruck
+  ⣤⣀⣤⣀⣤⣀⣀⣤⣀⣤⣤⣀⣀⣀⣀⣤⣤⣤⣀⣤⣀⣀⣤⣀  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
