@@ -21,7 +21,7 @@ role     : Software Engineer
 focus    : Performance
 status   : online
 
-$ ./skill-meter --languages
+$ ./favorite-meter --languages
 c++                 ████████████████████████████████░░░░░░░░░░░░░░ 68%
 bash                ████████████████████████░░░░░░░░░░░░░░░░░░░░░░ 46%
 c#                  ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 38%
@@ -60,17 +60,4 @@ last_played:
 <div align="center">
   <img src="https://raw.githubusercontent.com/bbbberd/bbbberd/output/github-snake-dark.svg" />
   <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
-</div>
-
-```bash
-$ ./run cube-demo
-Launching render preview...
-project     : cube
-subjects    : 3D viewport | rendering | gltfloader
-status      : keep being updated
-```
-<div align="center">
-<a href="https://github.com/bbbberd/cube">
-  <img src="https://raw.githubusercontent.com/bbbberd/cube/main/assets/kubus.gif" width="650" alt="Lighting cube demo: 3D renderer in C++" />
-</a>
 </div>
