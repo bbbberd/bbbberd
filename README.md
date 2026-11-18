@@ -42,8 +42,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 last_played:
-> AC/DC - It's a Long Way to the Top (If You Wanna Rock 'N' Roll)
-  ⣤⣀⣀⣀⣀⣀⣀⣀⣤⣀⣤⣀⣀⣀⣀⣀⣤⣤⣀⣤⣤⣀⣤⣀  [ idle ]
+> AC/DC - War Machine
+  ⣀⣀⣤⣤⣀⣀⣀⣀⣤⣤⣀⣀⣤⣀⣀⣤⣤⣀⣤⣤⣤⣀⣤⣀  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
