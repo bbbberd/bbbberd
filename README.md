@@ -41,9 +41,9 @@ email  : justbirdie00 [at] gmail [dot] com
 github : github.com/bbbberd
 
 $ spotifyctl status
-now_playing:
-> Nirvana - Smells Like Teen Spirit
-  ⣀⣿⣤⣿⣿⣀⣶⣤⣤⣀⣤⣶⣀⣀⣶⣤⣿⣀⣤⣿⣶⣤⣀⣶  [ playing ]
+last_played:
+> Korn - Freak on a Leash
+  ⣤⣤⣀⣀⣤⣀⣤⣤⣤⣀⣤⣤⣀⣤⣀⣤⣤⣀⣤⣀⣤⣀⣀⣀  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
