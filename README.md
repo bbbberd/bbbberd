@@ -41,9 +41,9 @@ email  : justbirdie00 [at] gmail [dot] com
 github : github.com/bbbberd
 
 $ spotifyctl status
-last_played:
-> AC/DC - War Machine
-  ⣀⣀⣤⣤⣀⣀⣀⣀⣤⣤⣀⣀⣤⣀⣀⣤⣤⣀⣤⣤⣤⣀⣤⣀  [ idle ]
+now_playing:
+> Nirvana - Smells Like Teen Spirit
+  ⣀⣿⣤⣿⣿⣀⣶⣤⣤⣀⣤⣶⣀⣀⣶⣤⣿⣀⣤⣿⣶⣤⣀⣶  [ playing ]
 ```
 <td valign="top" width="48%">
 <div align="center">
