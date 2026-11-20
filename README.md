@@ -42,8 +42,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 last_played:
-> Korn - Freak on a Leash
-  ⣤⣤⣀⣀⣤⣀⣤⣤⣤⣀⣤⣤⣀⣤⣀⣤⣤⣀⣤⣀⣤⣀⣀⣀  [ idle ]
+> alt-J - Something Good
+  ⣤⣤⣤⣤⣀⣀⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣀⣀⣀⣤  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
