@@ -41,9 +41,9 @@ email  : justbirdie00 [at] gmail [dot] com
 github : github.com/bbbberd
 
 $ spotifyctl status
-now_playing:
-> AC/DC - Girls Got Rhythm
-  ⣤⣿⣤⣀⣀⣿⣀⣤⣶⣤⣀⣤⣀⣿⣤⣤⣿⣀⣶⣶⣀⣀⣀⣶  [ playing ]
+last_played:
+> Slipknot - Vermilion, Pt. 2
+  ⣤⣀⣤⣤⣤⣤⣤⣀⣀⣤⣀⣤⣀⣤⣤⣀⣀⣀⣤⣀⣤⣤⣀⣀  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
