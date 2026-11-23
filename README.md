@@ -42,8 +42,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 last_played:
-> AC/DC - You Shook Me All Night Long
-  ⣀⣀⣀⣀⣤⣀⣤⣤⣤⣤⣤⣀⣀⣤⣤⣀⣀⣤⣀⣤⣀⣀⣀⣤  [ idle ]
+> AC/DC - Highway to Hell
+  ⣀⣤⣀⣀⣀⣤⣤⣤⣤⣀⣀⣀⣀⣀⣤⣀⣀⣤⣀⣀⣀⣀⣀⣀  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
