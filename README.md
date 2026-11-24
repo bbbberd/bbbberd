@@ -42,8 +42,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 last_played:
-> AC/DC - Highway to Hell
-  ⣀⣤⣀⣀⣀⣤⣤⣤⣤⣀⣀⣀⣀⣀⣤⣀⣀⣤⣀⣀⣀⣀⣀⣀  [ idle ]
+> Slipknot - Nero Forte
+  ⣤⣤⣤⣀⣤⣀⣀⣀⣀⣤⣤⣀⣤⣀⣀⣤⣤⣤⣤⣀⣤⣀⣤⣀  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
