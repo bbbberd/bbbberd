@@ -41,9 +41,9 @@ email  : justbirdie00 [at] gmail [dot] com
 github : github.com/bbbberd
 
 $ spotifyctl status
-now_playing:
-> Slipknot - Before I Forget
-  ⣀⣶⣿⣿⣿⣶⣶⣿⣿⣀⣿⣤⣀⣀⣿⣀⣶⣀⣿⣀⣿⣿⣶⣶  [ playing ]
+last_played:
+> Michael Jackson - You Rock My World
+  ⣀⣀⣤⣤⣀⣤⣤⣀⣀⣤⣤⣤⣤⣤⣤⣀⣤⣀⣀⣤⣤⣀⣀⣤  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
