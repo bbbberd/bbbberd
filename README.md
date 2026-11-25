@@ -41,9 +41,9 @@ email  : justbirdie00 [at] gmail [dot] com
 github : github.com/bbbberd
 
 $ spotifyctl status
-last_played:
-> Slipknot - Nero Forte
-  ⣤⣤⣤⣀⣤⣀⣀⣀⣀⣤⣤⣀⣤⣀⣀⣤⣤⣤⣤⣀⣤⣀⣤⣀  [ idle ]
+now_playing:
+> Slipknot - Before I Forget
+  ⣀⣶⣿⣿⣿⣶⣶⣿⣿⣀⣿⣤⣀⣀⣿⣀⣶⣀⣿⣀⣿⣿⣶⣶  [ playing ]
 ```
 <td valign="top" width="48%">
 <div align="center">
