@@ -7,7 +7,7 @@
 # FADLI BIRDIE ZEINDA
 ```bash
 Software Engineer
-Desktop | Web | Graphics | Game |
+Desktop | Web | Graphics | Game
 Performance Goblin
 ```
 <table>
