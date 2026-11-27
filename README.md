@@ -44,8 +44,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 last_played:
-> Michael Jackson - Blue Gangsta (original version)
-  ⣤⣀⣀⣤⣀⣤⣤⣤⣀⣤⣀⣀⣀⣤⣤⣀⣤⣀⣀⣀⣤⣤⣤⣀  [ idle ]
+> Michael Jackson - You Rock My World
+  ⣀⣀⣤⣤⣀⣤⣤⣀⣀⣤⣤⣤⣤⣤⣤⣀⣤⣀⣀⣤⣤⣀⣀⣤  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
