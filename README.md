@@ -42,8 +42,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 last_played:
-> Diskoria - C.H.R.I.S.Y.E.
-  ⣤⣤⣀⣀⣤⣤⣀⣀⣀⣤⣀⣀⣤⣤⣤⣤⣀⣀⣤⣀⣤⣤⣀⣤  [ idle ]
+> Michael Jackson - Blue Gangsta (original version)
+  ⣤⣀⣀⣤⣀⣤⣤⣤⣀⣤⣀⣀⣀⣤⣤⣀⣤⣀⣀⣀⣤⣤⣤⣀  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
