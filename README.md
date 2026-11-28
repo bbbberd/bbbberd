@@ -44,8 +44,8 @@ github : github.com/bbbberd
 
 $ spotifyctl status
 last_played:
-> Michael Jackson - You Rock My World
-  ⣀⣀⣤⣤⣀⣤⣤⣀⣀⣤⣤⣤⣤⣤⣤⣀⣤⣀⣀⣤⣤⣀⣀⣤  [ idle ]
+> Justin Timberlake - Rock Your Body
+  ⣀⣀⣀⣤⣤⣀⣀⣤⣤⣀⣀⣀⣤⣤⣤⣤⣤⣤⣀⣀⣤⣤⣀⣤  [ idle ]
 ```
 <td valign="top" width="48%">
 <div align="center">
